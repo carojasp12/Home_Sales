@@ -4,7 +4,7 @@
 ## Overview
 In this challenge, SparkSQL is used to analyze home sales data and find important metrics. The process involves creating temporary views using Spark, partitioning the data, and managing the temporary tables by caching and uncaching them. Finally, you'll confirm that the table has been successfully uncached.
 
-
+## Results
 -	What is the average price for a four-bedroom house sold for each year? Round off your answer to two decimal places.
 
 ![Screenshot 2024-06-02 010623](https://github.com/carojasp12/Home_Sales/assets/152667250/11713a09-9081-42ce-a4dc-8094672eee73)
